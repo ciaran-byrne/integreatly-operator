@@ -1,5 +1,5 @@
 registry-proxy.engineering.redhat.com/rh-osbs/3scale-amp2-3scale-rhel7-operator@sha256:1cc36afdbd5e7a00390aaa34a8ec1e9ae7cc7b86f3e149257acfe9be24dfdb71 quay.io/integreatly/delorean:3scale-amp2-3scale-rhel7-operator_latest
-registry-proxy.engineering.redhat.com/rh-osbs/3scale-amp2-apicast-gateway-rhel8@sha256:cec373e9104d7e2cc8662546dd789c96d264960f3ad4c7de8ba70528bab810b8 quay.io/integreatly/delorean:3scale-amp2-apicast-gateway-rhel8_latest
+registry-proxy.engineering.redhat.com/rh-osbs/3scale-amp2-apicast-gateway-rhel8@sha256:52013cc8722ce507e3d0b066a8ae4edb930fb54e24e9f653016658ad1708b5d7 quay.io/integreatly/delorean:3scale-amp2-apicast-gateway-rhel8_latest
 registry-proxy.engineering.redhat.com/rh-osbs/3scale-amp2-backend-rhel7@sha256:d8322db4149afc5672ebc3d0430a077c58a8e3e98d7fce720b6a5a3d2498c9c5 quay.io/integreatly/delorean:3scale-amp2-backend-rhel7_latest
 registry-proxy.engineering.redhat.com/rh-osbs/3scale-amp2-system-rhel7@sha256:2234e795140009578529c17fd4bfbeb7af22c1a36939729439c6d58c429005cd quay.io/integreatly/delorean:3scale-amp2-system-rhel7_latest
 registry-proxy.engineering.redhat.com/rh-osbs/3scale-amp2-zync-rhel7@sha256:d0cdc2281309c918bcfa1eae247978963ca61c37d38b547df53161d10c7b94dc quay.io/integreatly/delorean:3scale-amp2-zync-rhel7_latest
